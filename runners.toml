@@ -1,0 +1,12 @@
+[database]
+
+connection_string = "postgres://postgres:postgres@db:5432/runners_db?sslmode=disable"
+max_idle_connections = 5
+max_open_connections = 20
+connection_max_lifetime = "60s" 
+driver_name = "postgres"
+
+
+[http]
+
+server_address = ":8080"
