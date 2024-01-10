@@ -18,7 +18,7 @@ For visualisation metrics you can use Grafana
 ###  Installation
 Clone repository:
 ```bash
-git clone github.com/smonkeymonkey/runners.git
+git clone https://github.com/SmonkeyMonkey/runners.git
 ```
 ### Usage
 Run locally via docker-compose:
